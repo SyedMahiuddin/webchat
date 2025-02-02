@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885643133158",
+    "project_id": "webchat-29cd1",
+    "storage_bucket": "webchat-29cd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885643133158:android:3dbe7e5863a6364b20bb27",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVVfUMEZiBigx_wZ6dmmtcrXDeG3Eibk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
